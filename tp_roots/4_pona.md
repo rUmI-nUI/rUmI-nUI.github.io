@@ -10,6 +10,8 @@ Derivation: positive-
 ## Form 2: To improve, make better
 ### rUtEv (verb) (positive-spirit-into-matter-make)
 * In base aUI: nEk-rUtEv
+### rUtE (noun): "improvement"
+* In base aUI: nEk-rUtE
 
 ## Form 3: Good as a feeling
 ### rO! (interj.) (positive-feeling)
