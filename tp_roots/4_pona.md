@@ -14,3 +14,5 @@ Derivation: positive-
 ## Form 3: Good as a feeling
 ### rO! (interj.) (positive-feeling)
 * In base aUI: na-rUm
+### rÖ (noun) (positive-state)
+* Use of the conditional element (Ö) implies a temporary state.
