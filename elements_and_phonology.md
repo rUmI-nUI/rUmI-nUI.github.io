@@ -28,9 +28,12 @@ At its heart, rUmI *is* aUI and therefore, aUI elements are integral to construc
 |n|Quantity, much/many, amount, plural, number|-|
 |â, ê, ô|1, 2, 5|Additional number elements exist, though these three are the most important*|
 |m|Quality, kind, adjective marker|-|
+|r|Positive, good|-|
 |j|Equal, same, even|-|
+|L|Rounded|-|
 |z|Part, portion, division|-|
 |b|Together, proximity|-|
+|f|This, present|-|
 |t|Toward, to, future|-|
 |p|Before, previous, in front|2 distinct usages: "forward-ness" and as a marker of the past|
 |d|Through, as means of, tool|-|
