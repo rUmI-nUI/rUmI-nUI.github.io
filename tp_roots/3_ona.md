@@ -12,5 +12,5 @@ Derivation: existing-(many)-human, -matter-, -life-
 ### *cnu*: "They"
 * In base aUI: nu. A rare instance of the rUmI version containing more elements than base aUI. Reasoning: aligns the structure of this word with other rUmI pronouns.
 ### *cnum*: "Their"
-### *sEm*: Its
+### *sEm*: "Its"
 
