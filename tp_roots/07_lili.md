@@ -13,6 +13,6 @@ Derivation: -not-much-
 ### ynAo(m) (noun/adj.): "Young non-human living thing" (not-much-time-life)
 
 ## Form 3: To shrink
-### tynav (verb): (to-not-much-space-action)
+### (t)ynav (verb): (to-not-much-space-action)
 
 
