@@ -8,7 +8,7 @@ Derivation: existing-(many)-human, -matter-, -life-
 ### *sE*: It (thing-matter)
 * In base aUI: pIs. sE also exists as "its".
 
-## Form 2: First person pronoun, plural ("mi mute")
+## Form 2: Third person pronoun, plural ("ona mute")
 ### *cnu*: "They"
 * In base aUI: nu. A rare instance of the rUmI version containing more elements than base aUI. Reasoning: aligns the structure of this word with other rUmI pronouns.
 ### *cnum*: "Their"
