@@ -1,5 +1,5 @@
 # nimi #3: *ona*
-# Root: *c(n)u-* (human), *-E-* (inan.)
+# Root: *c(n)u-* (human), *-sE-* (inan.)
 Derivation: existing-(many)-human, -matter-, -life-
 
 ## Form 1: Third person pronoun, singular
