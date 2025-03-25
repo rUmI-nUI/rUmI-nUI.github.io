@@ -7,8 +7,8 @@ Derivation: -not-means-
 ## Form 1: Conflict
 ### ydjU (noun): "Disharmony" (not-means-same-spirit)
 * In base aUI: UyrOb
-### tydjUv (verb): "To conflict, to disharmonize" (to-not-means-same-spirit-action)
+### (t)ydjUv (verb): "To conflict, to disharmonize" (to-not-means-same-spirit-action)
 * In base aUI: bydjUv
-### ydev (verb): "To struggle" (not-means-movement-action)
+### (t)ydev (verb): "To struggle" (not-means-movement-action)
 * In base aUI: A-tvydydrev
 
