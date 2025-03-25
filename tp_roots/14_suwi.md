@@ -1,6 +1,6 @@
 # nimi #14: *suwi*
-# Root: *-grO-*
-Derivation: -inside-good-feeling-
+# Root: *-grOm-*
+Derivation: -inside-good-feeling-quality-
 
 ## Form 1: Sweet
 ### grOm (adj.): "Sweet/cute" (inside-good-feeling-quality)
