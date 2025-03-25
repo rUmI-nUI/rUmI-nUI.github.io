@@ -15,6 +15,6 @@ Derivation: -much-space- or -much-matter-
 * In base aUI: pwUrm
 
 ## Form 3: Grow
-### tnav: "Expand/Explode" (to-much-space-action)
-### tnEv: "Grow in size" (to-much-mass-action)
+### (t)nav: "Expand/Explode" (to-much-space-action)
+### (t)nEv: "Grow in size" (to-much-mass-action)
 * In base aUI: tnam-vEv
