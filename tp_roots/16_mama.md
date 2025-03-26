@@ -9,7 +9,7 @@ Note: -yt- is synonymous with "tan" in toki pona.
 ### ytum (adj.): "Parental" (not-toward-human-quality)
 
 ## Form 2: Origin
-## ytU (noun): (not-toward-spirit)
+### ytU (noun): (not-toward-spirit)
 * "yta" might also work here, though -U- may fit better as an abstract concept.
 
 ## Form 3: Ancestor
