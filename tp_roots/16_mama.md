@@ -1,6 +1,7 @@
 # nimi #16: *mama*
 # Root: *-yt(u/U)-*
 Derivation: -not-toward-human/spirit-
+
 Note: -yt- is synonymous with "tan" in toki pona.
 
 ## Form 1: Parent
