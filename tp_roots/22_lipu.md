@@ -7,11 +7,11 @@ Derivation: -two-quantity-space-
 ## Form 1: Sheet
 ### ênas (noun): (two-quantity-space-thing)
 
-## Form 1: Document/Paper
+## Form 2: Document/Paper
 ### iU-ênas (noun): (light-spirit-two-quantity-space-thing)
 * In base aUI: ênaE
 * "iU" is the rUmI root for "knowledge", see "sona"
 
-## Form 2: Flat
+## Form 3: Flat
 ### ênam (adj.): (two-quantity-space-quality)
 
