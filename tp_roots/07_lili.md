@@ -4,7 +4,7 @@ Derivation: -not-much-
 
 ## Form 1: Small
 ### ynE(m) (noun/adj.): "Small amount" (not-much-matter)
-### yna(m) (noun'adj.): "Small space" (not-much-space)
+### yna(m) (noun/adj.): "Small space" (not-much-space)
 
 ## Form 2: Young
 ### ynAu(m) (noun/adj.): "Young human" (not-much-time-human)
