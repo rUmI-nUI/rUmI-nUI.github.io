@@ -6,7 +6,7 @@ Derivation: -light-life-thing-
 ### ios (noun): (light-life-thing)
 
 ## Form 2: Leaf
-### z-ios (noun): (part-light-life-thing)
+### zios (noun): (part-light-life-thing)
 * In base aUI: îioz (îi is the base aUI construction for "green" as part of its confusing wavelength-based color system. See "kule" and "jelo"
 
 ## Form 3: Vegetation
