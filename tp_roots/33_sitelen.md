@@ -1,5 +1,5 @@
 # nimi #33: *sitelen*
-# Root: *-jiO*
+# Root: *-jiO-*
 Derivation: -equal-light-feeling-
 
 The essence of "sitelen" is the action of depiction, which is the process of making something in the same form ("-j-") as what you see ("iO") within yourself.
