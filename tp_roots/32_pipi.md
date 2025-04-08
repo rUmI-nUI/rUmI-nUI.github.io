@@ -9,6 +9,6 @@ Derivation: -not-much-space-(other elements)-life-
 ## Form 2: Germ 
 ### ynagos (noun): (not-much-space-inside-life-thing)
 * In base aUI: vyroz. Seems like a contrived attempt to sound like "virus". 
-* Suggested use of this term is when additional specificity is needed. "ynaos" works in most cases, just like how "pipi" is used for both use cases.
+* Suggested use of this term is when additional specificity is needed. "ynaos" works in most cases, just like how "pipi" is used in toki pona.
 
 
