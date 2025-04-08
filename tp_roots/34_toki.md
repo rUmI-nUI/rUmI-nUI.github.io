@@ -1,5 +1,5 @@
 # nimi #34: *toki*
-# Root: *UIv*
+# Root: *-UIv-*
 Derivation: -spirit-sound-action-
 
 "UI" alone is the root for "nimi". In this sense, the form closest to "language" would actually be base aUI's "nUI" (many words).
