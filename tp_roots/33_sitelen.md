@@ -12,5 +12,5 @@ The essence of "sitelen" is the action of depiction, which is the process of mak
 ### jiOv (verb): (same-light-feeling-thing)
 * In base aUI: "vUiOv"
 * Drawing and writing are two faces of the same (visual) act of depiction. They can be further distinguished:
-  * UI-jiOv: "to write" (spirit-sound-). "UI" is the rUmI root for "toki"
+  * UI-jiOv: "to write" (spirit-sound-). "UI" is the rUmI root for "nimi"
   * i-jiOv: "to draw" (light-).
