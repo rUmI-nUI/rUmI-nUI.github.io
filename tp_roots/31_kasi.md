@@ -1,5 +1,5 @@
 # nimi #31: *kasi*
-# Root: *ios*
+# Root: *-ios-*
 Derivation: -light-life-thing-
 
 ## Form 1: Plant
