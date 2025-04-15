@@ -4,7 +4,6 @@ Derivation: existing-(many)-human, -matter-, -life-
 
 ## Form 1: Third person pronoun, singular
 ### *cu*: "He, she, they (sing.)"
-### *cum*: "His, her, their"
 ### *sE*: It (thing-matter)
 * In base aUI: pIs. sE also exists as "its".
 
