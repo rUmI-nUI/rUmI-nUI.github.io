@@ -26,7 +26,7 @@ At its heart, rUmI *is* aUI and therefore, aUI elements are integral to construc
 |Element|Meaning|Notes|
 |-------|-------|-------------|
 |n|Quantity, much/many, amount, plural, number|-|
-|â, ê, ô|1, 2, 5|Additional number elements exist, though these three are the most important*|
+|â, ê, î, ô|1, 2, 3, 5|Additional number elements exist, though these three are the most important*|
 |m|Quality, kind, adjective marker|-|
 |r|Positive, good|-|
 |j|Equal, same, even|-|
@@ -48,5 +48,5 @@ At its heart, rUmI *is* aUI and therefore, aUI elements are integral to construc
 * A full list of aUI number elements from 0-10: ŷ, â, ê, î, û, ô, Â, Ê, Î, Û, Ô.
 
 
- In the spirit of toki pona, using 1, 2 and 5 are sufficient to convey most forms of general meaning. However, as one of the objectives of rUmI is to allow the coexistence of general and specific expression,
+ In the spirit of toki pona, using 1, 2 and 5 are sufficient to convey most forms of general meaning. Unlike toki pona, however, rUmI endorses an element for "3". However, as one of the objectives of rUmI is to allow the coexistence of general and specific expression,
  the usage of the other number markers is *not* discouraged.
