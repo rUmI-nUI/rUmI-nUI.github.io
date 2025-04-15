@@ -9,7 +9,7 @@ Derivation: existing-(many)-human, -matter-, -life-
 
 ## Form 2: Third person pronoun, plural ("ona mute")
 ### *cnu*: "They"
-* In base aUI: nu. A rare instance of the rUmI version containing more elements than base aUI. Reasoning: aligns the structure of this word with other rUmI pronouns.
+* In base aUI: nu. An instance of the rUmI version containing more elements than base aUI. Reasoning: aligns the structure of this word with other rUmI pronouns.
 ### *cnum*: "Their"
 ### *sEm*: "Its"
 
