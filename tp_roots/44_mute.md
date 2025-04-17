@@ -15,7 +15,7 @@ Derivation: -plural-matter-quality-, -plural-condition-
 * iOs (eye), niOs (eyes)
 * iods (fruit), niods (fruits)
 * ga (room), nÖ-ga (rooms)
-  * The "n-" vs "nÖ-" choice is based on ease of pronunciation and is entirely flexible in rUmI (unlike base aUI's mandatory requirement of anglophone-influenced pronuncibility for words). Depending on the writer's mother tongue, "nga" may be a valid combination of sounds and is thus permissible.
+  * The "n-" vs "nÖ-" choice is based on personal ease of pronunciation and is entirely flexible in rUmI (unlike base aUI's mandatory requirement of anglophone-influenced pronuncibility for words). Depending on the writer's mother tongue, "nga" may be a valid combination of sounds and is thus permissible.
 * jEos (fish), nÖ-jEos (fish)
 * vIu (human maker of sound), "nÖ-vIu (human makers of sound)
 
