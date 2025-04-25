@@ -40,7 +40,7 @@ At its heart, rUmI *is* aUI and therefore, aUI elements are integral to construc
 |g|Inside, within, holding|-|
 |k|Above, up, high|-|
 |Q, Ö|Condition, conditional-if, state|Recommended to use Ö, "Q" as recommended in aUI does not make much sense as a vowel|
-|x|Relation|The most ambiguous element. Recommended to use only if a meaning cannot be explained using other elements|
+|x|Relation|Also, "related"|
 |h|Question marker|-|
 |y|Negation and opposite|2 distinct and common usages, more on this later|
 
@@ -48,5 +48,5 @@ At its heart, rUmI *is* aUI and therefore, aUI elements are integral to construc
 * A full list of aUI number elements from 0-10: ŷ, â, ê, î, û, ô, Â, Ê, Î, Û, Ô.
 
 
- In the spirit of toki pona, using 1, 2 and 5 are sufficient to convey most forms of general meaning. Unlike toki pona, however, rUmI endorses an element for "3". However, as one of the objectives of rUmI is to allow the coexistence of general and specific expression,
+Unlike toki pona, rUmI also endorses an element for "3". However, as one of the objectives of rUmI is to allow the coexistence of general and specific expression,
  the usage of the other number markers is *not* discouraged.
