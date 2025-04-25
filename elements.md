@@ -8,7 +8,7 @@ At its heart, rUmI *is* aUI and therefore, aUI elements are integral to construc
 |-------|-------|-------------|
 |a|Space, place, location|-|
 |A|Time|In rUmI, can also be spelled as "á"|
-|e|Movement, motion|Is often seen as a connector for verbs, more on this later|
+|e|Movement, motion|Also, "flow"|
 |v|Action, to make, verb marker|See note about "e"|
 |i|Light, knowledge|-|
 |I|Sound|Can also be spelled as "í"|
