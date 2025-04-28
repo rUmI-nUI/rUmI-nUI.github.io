@@ -21,3 +21,12 @@
 |19|moku|_od_|life-means| Food: <ul><li>ods</li></ul> To eat: <ul><li>odEv</li></ul>|
 |20|ijo|_E_|matter| Thing/Object: <ul><li>Es</li></ul> Something: <ul><li>ymEs</li></ul>|
 |21|ilo|_Ed_|matter-means| Tool: <ul><li>Ed</li></ul> Machine: <ul><li>Eds</li><li>Edev: to machine</li></ul>|
+|22|lipu|_êna_|2-quantity-space| Sheet: <ul><li>ênas</li></ul> Document/Paper: <ul><li>iU-ênas: 'knowledge-sheet'</li></ul> Flat: <ul><li>ênam</li></ul>|
+|23|lukin|_iO_ (sense), _tUv_ (to strive toward)|light-feeling, toward-spirit-action| Eye: <ul><li>iOs</li></ul> To see: <ul><li>iOv</li></ul> To strive toward: <ul><li>tUv: shared with 'alasa'</li></ul>|
+|24|olin|_rUb_|good-spirit-together| Love/Affection: <ul><li>rUbO: Love/affection</li><li>rUbOv: to love</li></ul>|
+|25|pali|_Ev_|matter-action| To do: <ul><li>Ev</li><li>Evs: work/creation</li></ul> To make: <ul><li>(t)Ev</li></ul> Labor: <ul><li>Evu: worker</li><li>Evun: labor</li></ul>|
+|26|pana|_sev_|thing-movement-action| To give/send/emit: <ul><li>sev</li><li>at-sev: send</li><li>ut-sev: give</li><li>E-sev: emit</li></ul>|
+|27|telo|_jE_|equal-matter| Liquid: <ul><li>jE</li></ul> Water: <ul><li>o-jE</li></ul> To water: <ul><li>ab-jEv</li></ul>|
+|28|tomo|_ga_|inside-space| Room: <ul><li>ga</li></ul> Structure: <ul><li>uga</li><li>oga: enclosure/vivarium</li></ul>|
+|29|jo|_bav_|together-space-action| To have/hold/contain: <ul><li>bav</li></ul> Possession: <ul><li>bavÖ</li></ul>|
+|30|kala|_jEos_|equal-matter-life-thing| Aquatic life: <ul><li>jEos</li></ul>|
