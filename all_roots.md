@@ -58,6 +58,22 @@
 |56|kute|_IO_|sound-feeling| To hear/listen/obey: <ul><li>IOv</li></ul> Ear: <ul><li>IOs</li></ul>|
 |57|nimi|_UI_|spirit-sound| Word/name: <ul><li>UI</li></ul> Language: <ul><li>nUI: 'nimi mute'</li></ul>|
 |58|lawa|_k(o/u)_|above-(life/human)| Head: <ul><li>kos: Head (part)</li></ul> Leader/Ruler: <ul><li>ku</li></ul> To control/lead: <ul><li>kuv</li></ul>|
+|59|anpa|_yk_|not-above| Low: <ul><li>yka</li></ul> Humble: <ul><li>yk-kos-Öm</li></ul> Dependent: <ul><li>ykxu(m)</li></ul> To bow down: <ul><li>ykuv</li></ul> To defeat/conquer: <ul><li>vykuv</li></ul>|
+|60|insa (as noun)|_g_|inside| Inside: <ul><li>aga</li></ul> Center: <ul><li>gna</li></ul> Contents: <ul><li>gE</li></ul>|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
