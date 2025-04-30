@@ -60,13 +60,26 @@
 |58|lawa|_k(o/u)_|above-(life/human)| Head: <ul><li>kos: Head (part)</li></ul> Leader/Ruler: <ul><li>ku</li></ul> To control/lead: <ul><li>kuv</li></ul>|
 |59|anpa|_yk_|not-above| Low: <ul><li>yka</li></ul> Humble: <ul><li>yk-kos-Öm</li></ul> Dependent: <ul><li>ykxu(m)</li></ul> To bow down: <ul><li>ykuv</li></ul> To defeat/conquer: <ul><li>vykuv</li></ul>|
 |60|insa (as noun)|_g_|inside| Inside: <ul><li>aga</li></ul> Center: <ul><li>gna</li></ul> Contents: <ul><li>gE</li></ul>|
-
-
-
-
-
-
-
+|61|kule|_zi_|part-light| Color/Wavelength: <ul><li>zi(m)</li></ul> To color: <ul><li>(t)ziv</li></ul>|
+|62|jelo|_tnânazi_|toward-much-one-quantity-space-part-light| Yellow: <ul><li>tnânazi</li></ul>|
+|63|laso|_ynânazi_|not-much-one-quantity-space-part-light| Blue/Purple/Green: <ul><li>ynânazi</li></ul>|
+|64|loje|_nânazi_|much-one-quantity-space-part-light| Red/Orange: <ul><li>nânazi</li></ul>|
+|65|pimeja|_yi_|not-light| Black/dark: <ul><li>yi</li></ul>|
+|66|walo|_i_|light| Light: <ul><li>i</li></ul> White: <ul><li>i</li><li>canzi</li></ul>|
+|67|nasa|_ycx_|not-being-related| Strange/Silly/Weird: <ul><li>ycxU(m)</li></ul>|
+|68|jaki|_ybrO_|not-with-good-feeling| Dirty: <ul><li>ybrO(m)</li></ul> Disgusting/Toxic: <ul><li>ybrOtcÖ(m)</li></ul>|
+|69|moli|_yo_|not-life| Death: <ul><li>yo</li></ul> To die: <ul><li>(t)yov</li></ul>|
+|70|unpa|_vov_|make-life-action| To procreate: <ul><li>vov</li></ul>|
+|71|luka|_bô_|together-five| Arm/Hand: <ul><li>bôs</li></ul>|
+|72|linja|_âna_|one-quantity-space| Line: <ul><li>ânas</li></ul> Curve: <ul><li>lânas</li></ul> Rope: <ul><li>wânas</li></ul> Hair: <ul><li>kos-nânas</li></ul>|
+|73|palisa|_ânawE_|one-quantity-space-strong-matter| Long solid object: <ul><li>ânawE</li></ul>|
+|74|selo|_yg_|not-inside| Outer/Shell/Skin: <ul><li>yga(m)</li><li>ygas</li></ul> Boundary: <ul><li>gyg-ânas</li></ul>|
+|75|anu|_gaf_|inside-space-this| or: <ul><li>gaf</li></ul>|
+|76|sijelo|_us_|human-thing| Body: <ul><li>us</li></ul> Physical State: <ul><li>usÖ</li></ul>|
+|77|len|_ygênas_|not-inside-two-quantity-space-thing| Cloth/Layer: <ul><li>ygênas</li></ul> Veil (Privacy): <ul><li>yiO-ygenâs</li></ul>|
+|78|lete|_ybiw_|not-with-light-force| Cold/Raw: <ul><li>ybiwÖ</li></ul>|
+|79|musi|_vrO_|make-good-feeling| Entertaining/Fun: <ul><li>vrOm</li></ul> Entertainment/Game: <ul><li>vrOms</li></ul> Artistic: <ul><li>vrO-jiOm</li></ul>|
+|80|kama|_tev_ or _tA_ (future)|toward-movement-action or toward-time| Come/begin: <ul><li>tev</li></ul> Future: <ul><li>tA(m)</li></ul>|
 
 
 
