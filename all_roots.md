@@ -83,9 +83,12 @@
 |81|ken|_Öc_|condition-exist| Can/May: <ul><li>ÖcUv: To be able to</li></ul> Ability: <ul><li>dÖc</li></ul> Possibility: <ul><li>ânÖc</li></ul>|
 |82|open|_ve_|make-movement| Start: <ul><li>vev: To start</li><li>ve-: To start doing something</li><li>veA: Start</li></ul> Open: <ul><li>(t)vegav: To open</li></ul>|
 |83|pini|_yp_|not-before| End: <ul><li>ypA</li></ul> To finish: <ul><li>(t)ypAv</li></ul>|
-
-
-
+|84|sona|_iU_|light-spirit| Knowledge: <ul><li>iU</li></ul> To know: <ul><li>iUv</li></ul>|
+|85|wile|_tsO_|to-thing-feeling| Want/Desire: <ul><li>tsO</li></ul> To want/desire: <ul><li>tsOv</li></ul>|
+|86|lupa|_yEda_|no-matter-through-space| Hole: <ul><li>yEda</li></ul> Door: <ul><li>ta-yEda</li></ul>|
+|87|nasin|_d(a/U)_|through-(space/spirit)| Path/Road: <ul><li>da</li></ul> Doctrine/Paradigm/Means: <ul><li>dU</li></ul>|
+|88|nena|_yj(w)E_|not-equal-(strong)-matter| Hill/Mountain: <ul><li>kyjwE</li></ul> Bump: <ul><li>yjE</li></ul> Nose: <ul><li>kos-yjE</li><li>kEmOs: 'smell organ'</li></ul>|
+|89|tenpo|_A_|time| Time: <ul><li>A</li></ul>|
 
 
 
