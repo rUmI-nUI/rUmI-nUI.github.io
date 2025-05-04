@@ -91,22 +91,28 @@
 |89|tenpo|_A_|time| Time: <ul><li>A</li></ul>|
 |90|wan|_â_|one| 1: <ul><li>â</li></ul> United: <ul><li>bâm</li></ul> To unite: <ul><li>(v)âv</li></ul>|
 |91|tu|_ê_|two| 2: <ul><li>ê</li></ul> To divide: <ul><li>(v)êzEv</li></ul>|
-|92|sike|-l- (round)|round-two-quantity-space| Circle: <ul><li>lênas</li></ul> Round: <ul><li>lam</li></ul> Ball: <ul><li>lînas</li></ul>|
-|93|mani|-tytsed-|toward-not-toward-thing-movement-means| Money: <ul><li>tytseds</li></ul>|
-|94|esun|-tytsev-|toward-not-toward-thing-movement-action| Market/Shop: <ul><li>tytseva</li></ul> Trade/Exchange: <ul><li>tytsev</li></ul>|
-|95|mun|-kiE-|above-light-matter| Celestial Body: <ul><li>kiE</li></ul> Moon: <ul><li>yiA-wE-kiE</li></ul>|
-|96|nanpa|-nU-|quantity-spirit| Number/Quantity: <ul><li>nU(m)</li></ul>|
-|97|poki|-înaga-|three-quantity-space-inside-space| Box/Container: <ul><li>înagas</li></ul> Bowl: <ul><li>lînagas</li></ul>|
-|98|sin|-tcEn-|toward-exists-matter| New: <ul><li>tcEm</li></ul>|
-|99|suno|-kwiE- (sun), -i- (light)|above-strong-light-matter, light| Sun: <ul><li>kwiE</li></ul> Light: <ul><li>i</li></ul> Brightness: <ul><li>iÖ</li></ul>|
-|100|akesi|-ykeos-|not-above-moving-life-thing| Reptile, 'low' creature: <ul><li>ykeos</li></ul>|
-|101|alasa|-tosfev- (hunt), -tUv- (to seek/try)|toward-life-thing-this-movement-action, toward-spirit-action| To hunt: <ul><li>tosfev</li></ul> To try to: <ul><li>tUv</li></ul>|
-
-
-
-
-
-
+|92|sike|_l_ (round)|round-two-quantity-space| Circle: <ul><li>lênas</li></ul> Round: <ul><li>lam</li></ul> Ball: <ul><li>lînas</li></ul>|
+|93|mani|_tytsed_|toward-not-toward-thing-movement-means| Money: <ul><li>tytseds</li></ul>|
+|94|esun|_tytsev_|toward-not-toward-thing-movement-action| Market/Shop: <ul><li>tytseva</li></ul> Trade/Exchange: <ul><li>tytsev</li></ul>|
+|95|mun|_kiE_|above-light-matter| Celestial Body: <ul><li>kiE</li></ul> Moon: <ul><li>yiA-wE-kiE</li></ul>|
+|96|nanpa|_nU_|quantity-spirit| Number/Quantity: <ul><li>nU(m)</li></ul>|
+|97|poki|_înaga_|three-quantity-space-inside-space| Box/Container: <ul><li>înagas</li></ul> Bowl: <ul><li>lînagas</li></ul>|
+|98|sin|_tcEn_|toward-exists-matter| New: <ul><li>tcEm</li></ul>|
+|99|suno|_kwiE_ (sun), -i- (light)|above-strong-light-matter, light| Sun: <ul><li>kwiE</li></ul> Light: <ul><li>i</li></ul> Brightness: <ul><li>iÖ</li></ul>|
+|100|akesi|_ykeos_|not-above-moving-life-thing| Reptile, 'low' creature: <ul><li>ykeos</li></ul>|
+|101|alasa|_tosfev_ (hunt), -tUv- (to seek/try)|toward-life-thing-this-movement-action, toward-spirit-action| To hunt: <ul><li>tosfev</li></ul> To try to: <ul><li>tUv</li></ul>|
+|102|kon|_U_, _kE_ (gas)|spirit, above-matter| Spirit/Essence: <ul><li>U</li></ul> Gas: <ul><li>kE(m)</li></ul> Ephemeral: <ul><li>kExÖm</li></ul>|
+|103|pan|_izon_|light-part-life-many| Grain: <ul><li>izon</li></ul> Bread: <ul><li>izonod</li></ul>|
+|104|pilin|_O_|feeling| Feeling: <ul><li>O</li></ul> Heart: <ul><li>geOs</li></ul> Touch: <ul><li>EbO(v)</li></ul>|
+|105|supa|_byk_|together-not-above| Horizontal: <ul><li>can-bykÖm</li></ul>|
+|106|taso|_yfÖ_ (but), _âfÖ_|not-this-condition, one-this-condition| But: <ul><li>yfÖ</li></ul> Only: <ul><li>âfÖ</li></ul>|
+|107|uta|_tosg_|toward-life-thing-inside| Mouth: <ul><li>tosgas</li></ul>|
+|108|weka|_ycfa_|not-exist-this-space| Absent/Away: <ul><li>ycfam</li><li>ycfa: Elsewhere</li></ul> To remove: <ul><li>tycfav</li></ul>|
+|109|namako|_kfÖ_|above-this-condition| Extra: <ul><li>kfÖm</li></ul>|
+|110|kin|_fÖb_|this-condition-together| Also: <ul><li>fÖb</li></ul>|
+|111|kipisi|_zE_|part-matter| Part: <ul><li>zE</li></ul> Divide: <ul><li>(t)zEv</li></ul>|
+|112|leko|_jênas_|equal-two-quantity-space-thing| Square: <ul><li>jênas</li></ul>|
+|113|meso|_jnU_|equal-quantity-spirit| Average: <ul><li>jnU(m)</li></ul>|
 
 
 
