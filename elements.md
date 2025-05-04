@@ -1,6 +1,5 @@
 # aUI Elements
-
-At its heart, rUmI *is* aUI and therefore, aUI elements are integral to constructing words. We can organize these elements into 2 categories:
+rUmI words and stems are constructed from the aUI elements of meaning. We can organize these elements into 2 categories:
 
 ## Group 1: Basic Types
 
