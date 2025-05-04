@@ -25,7 +25,7 @@ This is the cardinal rule of rUmI's semantic organization. Specifically:
 
 Sentence structure in rUmI follows three rules:
 
-1. Any subject (doer of action) that is a human pronoun (i.e. I, you, he/she/they, us, y'all) must be the first word in a simple sentence or within a clause.
+1. Any subject (doer of action) that is a human pronoun (i.e. I, you, he/she/they, us, y'all) must be the first word in a simple sentence or the second word (after a marker) within a clause.
 2. Modifiers (prepositions, nouns in the genitive, sociative or instrumental cases, conjunctions, etc) precede their targets.
 3. Subjects that aren't human pronouns that perform an action with an object (transitive verb) need to be marked in the ergative case.
 
