@@ -19,6 +19,7 @@ Hyphens separate nUIz and nI - can be used at the writer's discretion for emphas
 ## Method 2: Ânakúí-jió-dú
 
 In this system, long vowels are marked using the acute accent. The circumflex still denotes nasalization. Sentence-initial letters are capitalized, and "ö" can be left in lowercase. Same as above, hyphens separate nUIz and nI and can be used at the writer's discretion for emphasis.
+
 **This is the preferred system for writing rúmí**
 
 **When to use**
