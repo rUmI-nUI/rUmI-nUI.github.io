@@ -23,8 +23,8 @@ rUmI nouns can decline into 5 cases:
   * Human subjects (nouns ending in "u") are never marked in the ergative case.
   * Examples
     * *Kéosöf* odé-páv iods (The bird ate the fruit)
-    * Um *osöf* ió-fáv yf-u (The person's pet sees that person)
-    * *If* rúté-fáv ga (Light improves the room)
+    * Um *osöf* ió-fáv yf-u (The person's pet is seeing that person)
+    * *If* rúté-fáv ga (Light is improving the room)
   * Counter-example
     * Fu tytsev jió-éd (I buy a writing tool). "fu" is a human subject and is not marked in the ergative.
 
@@ -43,8 +43,16 @@ rUmI nouns can decline into 5 cases:
    * Nouns in the sociative case function as modifiers with prepositional quality, and can be used similarly.
    * Examples
      * Fu *ub* e-páv (I went with him)
-     * Bu *rú-osöb* ctá-fáv (You stayed with the pet)
+     * Bu *rú-osöb* ctá-fáv (You are staying with the pet)
      * *Unöb*, évu ag uga éc (The worker is inside the house with a group of people)
  
-
+* Instrumental case: -öd
+   * The instrumental case is used to indicate that a noun is *used to do something else*.
+   * The instrumental is analogous to the prepositional use of "kepeken" in toki pona and analogous to "using __" in English.
+   * Unlike the above cases, the "ö" is **not** optional.
+   * Like with the sociative, nouns in the instrumental function as modifiers with prepositional quality.
+   * Examples
+     * Fu *iwéöd* tév ods (I make food using fire)
+     * U *i-édöd* e-páv ad ioson (He went through the vegetation using a 'light-tool' (flashlight))
+     * Fu íb fum bru *bôöd* tosfe-táv nyiods ag yg-béna (Me and my friend will handpick mushrooms in the countryside).
 
