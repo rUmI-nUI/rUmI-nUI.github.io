@@ -2,7 +2,7 @@
 |-------|-------|-------------|------|-------|
 |1|mi|_f(n)u_|this-(many)-human|<ul>                  <li>fu: I, me</li>       <li> fum: Mine </li>   <li> fnu: We </li>   <li> fnum: Our </li>   </ul>|
 |2|sina|_b(n)u_|together-(many)-human|<ul>       <li>bu: You</li>       <li> bum: Your </li>   <li> bnu: Y'all </li>   <li> bnum: Y'all's </li>   </ul>|
-|3|ona|_(cn)u_ (human), _sE_ (inan.)|exists-(many)-human, thing-matter| He, she, they: <ul>     <li> u: He, she, they</li>     <li>um: Their</li></ul>     It(s): <ul> <li>sE(m)</li><ul>|
+|3|ona|_(cn)u_ (human), _sE_ (inan.)|(exists-many)-human, thing-matter| He, she, they: <ul>     <li> u: He, she, they</li>     <li>um: Their</li></ul>     It(s): <ul> <li>sE(m)</li><ul>|
 |4|pona|_r_|good|Good, simple: <ul><li>rU(m)</li></ul> To improve, make better: <ul><li>rUtEv</li><li>rUtE: Improvement</li></ul> Good as a feeling: <ul><li>rO</li><li>rÖ: As a temporary state</li></ul>|
 |5|ike|_yr_|not-good|Bad, general: <ul><li>yr</li><li>yrm</li></ul> Evil, bad spirit: <ul><li>yrU</li><li>yrUm</li><li>yru:'jan ike'</li><li>yrÖ: Temporary state</li></ul>|
 |6|suli|_na_ or _nE_|much-space, much-matter| Big: <ul><li>na</li><li>nE</li><li>nam</li><li>nEm</li></ul> Important: <ul><li>naU</li><li>naUm</li></ul> Grow: <ul><li>(t)nav</li><li>(t)nEv</li></ul>|
