@@ -69,3 +69,15 @@ rUmI verbs are conjugated to reflect tense, conditionality and commands/desires.
 |Conditional Aspect|-öv|Actions with a possibility of occurrence ("may/might")|Fu se-öv fé (I might give this)|-|
 |Imperative Aspect|-vte|Commands, wish that an action takes place (same as "o" in toki pona)| Se-vte tytsevs (Give money), Bu se-vte tytsevs (You should give money)|-|
 
+Note that **with the exception of the imperative aspect**, these are the same conjugations as in aUI. Also unlike aUI, rUmI does not have a dedicated conjugation for passive voice. Some notes regarding passive constructions:
+* Passive voice **is forbidden** when the subject is human (ending in "-u").
+  * "The fruit is eaten by her" is not allowed and must be rephrased as "U odév iods" (She eats the fruit).
+  * A recurring theme in rUmI is the **centrality of human subjects**.
+* Passive voice **is allowed** with non-human subjects (unlike in toki pona) and can be realized by switching the positions of the ergative-marked subject and object.
+  * Kéosöf odé-fáv ynaos -> active voice, "the bird is eating the insect"
+  * Ynaos odé-fáv kéosöf -> passive voice, "the insect is being eaten by the bird"
+* In general, the active voice is recommended.
+
+
+
+
