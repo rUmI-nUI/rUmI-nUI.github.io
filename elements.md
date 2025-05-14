@@ -25,7 +25,7 @@ rUmI words and stems are constructed from the aUI elements of meaning. We can or
 |Element|Pronunciation|Meaning|Notes|
 |-------|----|-------|-------------|
 |n|n|Quantity, much/many, amount, plural, number|-|
-|â, ê, î, ô|ã:, ẽ:, ĩ:, õ:|1, 2, 3, 5|Additional number elements exist, though these three are the most important*|
+|â, ê, î, û, ô|ã:, ẽ:, ĩ:,̃ũ:, õ:|1, 2, 3, 4, 5|Additional number elements exist, though these five are the most important*|
 |m|m|Quality, kind, adjective marker|-|
 |r|r|Positive, good|-|
 |j|dʒ|Equal, same, even|-|
