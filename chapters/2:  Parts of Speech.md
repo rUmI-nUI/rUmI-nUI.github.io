@@ -55,4 +55,17 @@ rUmI nouns can decline into 5 cases:
      * Fu *iwéöd* tév ods (I make food using fire)
      * U *i-édöd* e-páv ad ioson (He went through the vegetation using a 'light-tool' (flashlight))
      * Fu íb fum bru *bôöd* tosfe-táv nyiods ag yg-béna (Me and my friend will handpick mushrooms in the countryside).
+    
+ ## Verbs (vUI)
+
+rUmI verbs are conjugated to reflect tense, conditionality and commands/desires. All rUmI verbs end with the "-v" element, which is substituted with a new ending (conjugation) for each tense/aspect. All verbs conjugate the same way regardless of person and rUmI has no irregular verbs.
+
+|Tense/Aspect|Ending|Use|Example(s)|Notes|
+|-------|-------|---|-------------|-|
+|Infinitive/Present Tense|-v|Actions in the present, also as gerunds|Fu sev fé (I give this), sev (to give/send)|-|
+|Present Continuous Tense|-fAv|"I am ___ ing", actions in progress|Bu se-fáv yfé (You are giving that)|-|
+|Past Tense|-pAv|Actions in the past|U se-páv iú-ênas (She gave the document)|rUmI does not have perfect tenses, so this sentence could also mean "She had sent the document"| 
+|Future Tense|-tAv|Actions in the future|Fnu nám se-táv núís (We will send the essay late)|This sentence can also mean "We will have sent the essay late".|
+|Conditional Aspect|-öv|Actions with a possibility of occurrence ("may/might")|Fu se-öv fé (I might give this)|-|
+|Imperative Aspect|-vte|Commands, wish that an action takes place (same as "o" in toki pona)| Se-vte tytsevs (Give money), Bu se-vte tytsevs (You should give money)|-|
 
