@@ -76,7 +76,7 @@ Note that **with the exception of the imperative aspect**, these are the same co
 * Passive voice **is allowed** with non-human subjects (unlike in toki pona) and can be realized by switching the positions of the ergative-marked subject and object.
   * Kéosöf odé-fáv ynaos -> active voice, "the bird is eating the insect"
   * Ynaos odé-fáv kéosöf -> passive voice, "the insect is being eaten by the bird"
-* In general, the active voice is recommended.
+* In general, the active voice is preferred.
 
 
 
