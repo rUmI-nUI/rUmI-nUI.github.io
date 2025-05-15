@@ -90,7 +90,7 @@ There are four base statives - Ec, Uc, "Öc" and yc. "Ec", "Uc" and "Öc" can be
 |-------|-------|---|-------------|-|
 |Ec|"physically exists"|To indicate that something exists, is at some place or is generally of some quality|Wé éc (A rock exists),<br> Wé ab béna éc (The rock is on the ground),<br> Wé wém éc (The rock is tough)|This is the most common stative and can be used in place of Uc as well|
 |Uc|"conceptually exists"|To indicate that something exists as a concept or ideal, is true or correct|Út nu, iods rú úc (To humans, food is good), <br> Fé úc (This is true)|-|
-|Öc|"conditionally exists"|To indicate that something might exist|Ad ké evö döcúb nö-jéos öc (Fish with the ability of movement through air exist)|-|
+|Öc|"conditionally exists"|To indicate that something might exist|Ad ké evc döcúb nö-jéos öc (Fish with the ability of movement through air exist)|-|
 
 
 
