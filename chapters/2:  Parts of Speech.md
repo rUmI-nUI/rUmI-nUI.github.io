@@ -80,7 +80,7 @@ Note that **with the exception of the imperative aspect**, these are the same co
 
  ## Statives (cUI)
 
-Statives are a part of speech unique to rUmI. They are used to describe states of being, similar to the verb "is" in English or "lon" in toki pona. They function similar to nouns and verbs though importantly, statives **do not follow noun and verb declination and conjugation rules**. All statives end with the element "-c". They can be divided into three categories - base, inchoative and synthetic statives.
+Statives are a part of speech unique to rUmI. They are used to describe existences, similar to the verb "is" in English or "lon" in toki pona. They function similar to nouns and verbs though importantly, statives **do not follow noun and verb declination and conjugation rules**. All statives end with the element "-c". They can be divided into three categories - base, inchoative and synthetic statives.
 
 <ins> Base statives </ins>
 
