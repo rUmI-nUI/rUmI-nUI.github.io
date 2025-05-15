@@ -66,7 +66,7 @@ rUmI verbs are conjugated to reflect tense, conditionality and commands/desires.
 |Present Continuous Tense|-fAv|"I am ___ ing", actions in progress|Bu se-fáv yfé (You are giving that)|-|
 |Past Tense|-pAv|Actions in the past|U se-páv iú-ênas (She gave the document)|rUmI does not have perfect tenses, so this sentence could also mean "She had sent the document"| 
 |Future Tense|-tAv|Actions in the future|Fnu nám se-táv núís (We will send the essay late)|This sentence can also mean "We will have sent the essay late".|
-|Conditional Aspect|-öv|Actions with a possibility of occurrence ("may/might")|Fu se-öv fé (I might give this)|-|
+|Conditional Aspect|-Öv|Actions with a possibility of occurrence ("may/might")|Fu se-öv fé (I might give this)|-|
 |Imperative Aspect|-vte|Commands, wish that an action takes place (same as "o" in toki pona)| Se-vte tytsevs (Give money), Bu se-vte tytsevs (You should give money)|-|
 
 Note that **with the exception of the imperative aspect**, these are the same conjugations as in aUI. Also unlike aUI, rUmI does not have a dedicated conjugation for passive voice. Some notes regarding passive constructions:
@@ -77,6 +77,28 @@ Note that **with the exception of the imperative aspect**, these are the same co
   * Kéosöf odé-fáv ynaos -> active voice, "the bird is eating the insect"
   * Ynaos odé-fáv kéosöf -> passive voice, "the insect is being eaten by the bird"
 * In general, the active voice is preferred.
+
+ ## Statives (cUI)
+
+Statives are a part of speech unique to rUmI. They are used to describe states of being, similar to the verb "is" in English or "lon" in toki pona. They function similar to nouns and verbs though importantly, statives **do not follow noun and verb declination and conjugation rules**. All statives end with the element "-c". They can be divided into three categories - base, inchoative and synthetic statives.
+
+<ins> Base statives </ins>
+
+There are four base statives - Ec, Uc, "Öc" and yc. "Ec", "Uc" and "Öc" can be translated variously to "is", "existing", "true" or "yes", and "yc" to "isn't", "not existing" or "false". However, each base stative has a different use case:
+
+|Base Stative|Closer Translation|Use|Example(s)|Notes|
+|-------|-------|---|-------------|-|
+|Ec|"physically exists"|To indicate that something exists, is at some place or is generally of some quality|Wé éc (A rock exists),<br> Wé ab béna éc (The rock is on the ground),<br> Wé wém éc (The rock is tough)|This is the most common stative and can be used in place of Uc as well|
+|Uc|"conceptually exists"|To indicate that something exists as a concept or ideal, is true or correct|Út nu, iods rú úc (To humans, food is good), <br> Fé úc (This is true)|-|
+|Öc|"conditionally exists"|To indicate that something might exist|Ad ké evö döcúb nö-jéos öc (Fish with the ability of movement through air exist)|-|
+
+
+
+
+
+
+
+
 
 
 
