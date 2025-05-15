@@ -84,7 +84,7 @@ Statives are a part of speech unique to rUmI. They are used to describe states o
 
 <ins> Base statives </ins>
 
-There are four base statives - Ec, Uc, "Öc" and yc. "Ec", "Uc" and "Öc" can be translated variously to "is", "existing", "true" or "yes", and "yc" to "isn't", "not existing" or "false". However, each base stative has a different use case:
+There are four base statives - Ec, Uc, Öc and yc. "Ec", "Uc" and "Öc" can be translated variously to "is", "existing", "true" or "yes", and "yc" to "isn't", "not existing" or "false". However, each base stative has a different use case:
 
 |Base Stative|Closer Translation|Use|Example(s)|Notes|
 |-------|-------|---|-------------|-|
