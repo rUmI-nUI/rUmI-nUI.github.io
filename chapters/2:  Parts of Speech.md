@@ -82,7 +82,7 @@ Note that **with the exception of the imperative aspect**, these are the same co
 
 Statives are a part of speech unique to rUmI. They are used to describe existences, similar to the verb "is" in English or "lon" in toki pona. They function similar to nouns and verbs though importantly, statives **do not follow noun and verb declination and conjugation rules**. All statives end with the element "-c". They can be divided into three categories - base, inchoative and synthetic statives.
 
-Note: Statives do not describe "temporary states" (i.e. motion, feelings). Those can be described using the "-Ö" suffix to denote conditions.
+Note: Statives do not describe temporary or reversible states (i.e. motion, feelings). Those can be described using the "-Ö" suffix to denote conditions.
 
 <ins> Base statives </ins>
 
