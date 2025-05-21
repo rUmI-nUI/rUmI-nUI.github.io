@@ -78,6 +78,18 @@ Note that **with the exception of the imperative aspect**, these are the same co
   * Ynaos odé-fáv kéosöf -> passive voice, "the insect is being eaten by the bird"
 * In general, the active voice is preferred.
 
+rUmI verbs can optionally take on a **inchoative aspect** to indicate that an action has begun/is heading toward a a result. This can be achieved by appending "t-" to the verb stem. Some examples:
+* ev (to move) vs. tev (to begin to move)
+* sev (to send) vs. tsev (to strive to send)
+* âv (to unite) vs. tâv (to begin to unite)
+
+Some verbs are inchoative by default and do not need to be further marked. These include:
+* ctáv (to remain)
+* túv (to strive toward). In fact, all inchoative constuctions can be replaced by "túv ___":
+   * tsev and túv sev are the same
+
+
+
  ## Statives (cUI)
 
 Statives are a part of speech unique to rUmI. They are used to describe existences, similar to the verb "is" in English or "lon" in toki pona. They function similar to nouns and verbs though importantly, statives **do not follow noun and verb declination and conjugation rules**. All statives end with the element "-c". They can be divided into three categories - base, inchoative and synthetic statives.
@@ -90,9 +102,17 @@ There are four base statives - Ec, Uc, Öc and yc. "Ec", "Uc" and "Öc" can be t
 
 |Base Stative|Closer Translation|Use|Example(s)|Notes|
 |-------|-------|---|-------------|-|
-|Ec|"physically exists"|To indicate that something exists, is at some place or is generally of some quality|Wé éc (A rock exists),<br> Wé ab béna éc (The rock is on the ground),<br> Wé wém éc (The rock is tough)|This is the most common stative and can be used in place of Uc as well|
+|Ec|"physically exists"|To indicate that something exists, is at some place or is generally of some quality|Wé éc (A rock exists),<br> Wé ab béna éc (The rock is on the ground),<br> Wé wém éc (The rock is tough)|This is the most common stative and can be used in place of Uc as well. Is also used to say "yes"|
 |Uc|"conceptually exists"|To indicate that something exists as a concept or ideal, is true or correct|Nu úg, iods rú úc (To humans, food is good), <br> Fé úc (This is true)|-|
 |Öc|"conditionally exists"|To indicate that something might exist|Ad ké evöm döcúb nö-jéos öc (Fish with the ability of movement through air may exist)|-|
+|yc|"Not exist"|To indicate that something isn't|Jéos u yc (A fish isn't a human), <br> Fú íb bú ag búö yc (You and I aren't in agreement)|Is also used to say "no"|
+
+<ins> Inchoative statives </ins>
+
+There are 2 inchoative statives - tEc and tyc, defined as "to become" and "to disappear". Like inchoative verbs, they are used to indicate states of existence that are about to begin.
+* Fú nám téc (I am becoming older)
+* Um rú tyc (His goodness is disappearing)
+
 
 
 
