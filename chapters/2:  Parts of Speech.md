@@ -109,10 +109,18 @@ There are four base statives - Ec, Uc, Öc and yc. "Ec", "Uc" and "Öc" can be t
 
 <ins> Inchoative statives </ins>
 
-There are 2 inchoative statives - tEc and tyc, defined as "to become" and "to disappear". Like inchoative verbs, they are used to indicate states of existence that are about to begin.
+There are 2 inchoative statives - tEc and tyc, defined as "to become" and "to disappear". Like inchoative verbs, they are used to indicate states of existence that are about to begin/in progress.
 * Fú nám téc (I am becoming older)
 * Um rú tyc (His goodness is disappearing)
 
+<ins> Synthetic statives </ins>
+
+Synthetic statives are used to describe permanent, enduring or absolute qualities and can be created from any root or nI-combination. There are two general uses for synthetic statives:
+* Case 1: Permanent states.
+  * There are a few cases where a synthetic stative is preferred over a modifier, the most common being to tell is something is broken (yrc). Ex. "Éd yrc" (The tool is broken). Note that "Éd yrcöm éc" would be used if the tool was temporarily broken.
+  * Another case is the "is forever _____ " construct. Ex. "Ak ké u wúc" (The person above the sky is forever strong) or "Iúm ná-ios nac" (The tree of knowledge is forever tall)
+* Case 2: Absolute comparisons.
+  * This is the most common use for a synthetic stative and is always used in comparative clauses. Ex. Fum brú úx, fu nac (Relative to my friend, I am the tallest), "Canöm nu úx, fum ytu ic" (Relative to everyone, my father is the brightest).
 
 
 
