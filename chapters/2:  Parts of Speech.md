@@ -122,7 +122,18 @@ Synthetic statives are used to describe permanent, enduring or absolute qualitie
 * Case 2: Absolute comparisons.
   * This is the most common use for a synthetic stative and is always used in comparative clauses. Ex. Fum brú úx, fu nac (Relative to my friend, I am the tallest), "Canöm nu úx, fum ytu ic" (Relative to everyone, my father is the brightest).
 
+## Prepositions (acUI)
 
+Unlike in aUI, rUmI prepositions are strictly restricted to roots containing "a" and "A". rUmI prepositions also have a (sometimes-different) prefix form that can be optionally appended to verbs and nouns to indicate directionality.
+
+|Preposition|Meaning|Prefix Form|Example(s)|Notes|
+|---|---|---|---|---|
+|ab|"at"|ba|És ab tytseva éc (The thing is at the store) <br> Ba-se-vte és fa (Bring the thing here)|-|
+|ap|"in front"|pa|És ap fu éc (The thing is in front of me) <br> Fu pa-ev fum ega (I drive the car forward)|-|
+|yap|"behind"|ypa|És yap fu éc (The thing is behind me) <br> Fu ypa-ev fum ega (I reverse the car)|-|
+|at|"toward"|ta|Fu e-páv at bu (I went toward you) <br> Fnu ta-se-táv ênas (We will send the paper)|-|
+|yat|"away"|yta|Fu ev yat bu (I go away from you) <br> Fu yta-ev (I am going away)|-|
+|ak|"above, on top"|ka|Fu ak béna (I am on top of the ground) <br> Fu se-fáv fné ak ka-êna (I put these on the top surface)|-|
 
 
 
