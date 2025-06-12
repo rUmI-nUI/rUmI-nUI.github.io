@@ -124,17 +124,40 @@ Synthetic statives are used to describe permanent, enduring or absolute qualitie
 
 ## Prepositions (acUI)
 
-Unlike in aUI, rUmI prepositions are strictly restricted to roots containing "a" and "A". rUmI prepositions also have a (sometimes-different) prefix form that can be optionally appended to verbs and nouns to indicate directionality.
+rUmI prepositions contain "a" or "A" in their non-negative forms.
 
-|Preposition|Meaning|Prefix Form|Example(s)|Notes|
-|---|---|---|---|---|
-|ab|"at"|ba|És ab tytseva éc (The thing is at the store) <br> Ba-se-vte és fa (Bring the thing here)|-|
-|ap|"in front"|pa|És ap fu éc (The thing is in front of me) <br> Fu pa-ev fum ega (I drive the car forward)|-|
-|yap|"behind"|ypa|És yap fu éc (The thing is behind me) <br> Fu ypa-ev fum ega (I reverse the car)|-|
-|at|"toward"|ta|Fu e-páv at bu (I went toward you) <br> Fnu ta-se-táv ênas (We will send the paper)|-|
-|yat|"away"|yta|Fu ev yat bu (I go away from you) <br> Fu yta-ev (I am going away)|-|
-|ak|"above, on top"|ka|Fu ak béna (I am on top of the ground) <br> Fu se-fáv fné ak ka-êna (I put these on the top surface)|-|
+|Preposition|Meaning|Notes|
+|---|---|---|
+|ab|"at"|-|
+|yb|"not at, without"|-|
+|ap|"in front"|-|
+|yp|"behind"|Can also mean "end"|
+|at|"toward"|-|
+|yt|"away, from"|-|
+|ak|"above, on top"|-|
+|yk|"below"|-|
+|ag|"inside"|-|
+|yg|"outer"|-|
+|ad|"through"|-|
+|yd|"against"|-|
+|fA|"now"|Marks the present|
+|pA|"Before, past"|Marks the past|
+|tA|"Future"|Marks the future|
 
+
+Prepositions can be used in two ways:
+* Case 1: As traditional prepositions
+  * Prepositions placed after a subject and before something (a noun, clause or modifier) indicate a subject's spatial or temporal relationship with the thing
+  * Ex. 1: Fu *ab* yru-ga (I am at the hospital)
+  * Ex. 2: Bu *ap* u ág, u e-páv *yt* bu (When you were in front of her, she moved away from you)
+
+* Case 2: To mark a prepositional clause
+  * A clause is a phrase that acts as a modifier. Prepositional clauses are defined by placing the preposition *after* a word or group of words.
+  * Ex. 1: Yru-ga *ab*, fu éc (At the hospital, I am). Note: can also be rephrased to ex.1 above.
+  * Ex. 2: *Tá*, fnu e-táv (In the future, we will go).
+  * Ex. 3: U odév *ap*, fu éc (In front of the person who eats, I am) -> (I am in front of the person who is eating)
+
+ Note that nouns in the sociative case can function as prepositions. It is best practice to limit the size of prepositional phrases to the shortest possible form, in order to ease readability.
 
 
 
