@@ -148,7 +148,7 @@ rUmI prepositions contain "a" or "A" in their non-negative forms.
 Prepositions can be used in two ways:
 * Case 1: As traditional prepositions
   * Prepositions placed after a subject and before something (a noun, clause or modifier) indicate a subject's spatial or temporal relationship with the thing
-  * Ex. 1: Fu *ab* yru-ga (I am at the hospital)
+  * Ex. 1: Fu *ab* yru-ga éc (I am at the hospital)
   * Ex. 2: Bu *ap* u ág, u e-páv *yt* bu (When you were in front of her, she moved away from you)
 
 * Case 2: To mark a prepositional clause
@@ -158,6 +158,10 @@ Prepositions can be used in two ways:
   * Ex. 3: U odév *ap*, fu éc (In front of the person who eats, I am) -> (I am in front of the person who is eating)
 
  Note that nouns in the sociative case can function as prepositions. It is best practice to limit the size of prepositional phrases to the shortest possible form, in order to ease readability.
+
+The organization of prepositional phrases (i.e. "preposition-final") may seem counter to the cardinal principle of "items on the left modify those on the right", yet is still consistent. The preposition + comma at the end of a clause modifies the subject of the following clause to the right, and the words within the prepositional clause modify the meaning of the preposition. In Ex. 3 above:
+* "U odév" by itself means "The person eats". "ap" by itself means "in front of". A crude translation of "U odév ap," is then "The person eats, in front of whom ...".
+
 
 
 
