@@ -162,8 +162,31 @@ Prepositions can be used in two ways:
 The organization of prepositional phrases (i.e. "preposition-final") may seem counter to the cardinal principle of "items on the left modify those on the right", yet is still consistent. The preposition + comma at the end of a clause modifies the subject of the following clause to the right, and the words within the prepositional clause modify the meaning of the preposition. In Ex. 3 above:
 * "U odév" by itself means "The person eats". "ap" by itself means "in front of". A crude translation of "U odév ap," is then "The person eats, in front of whom ...".
 
+As with all other Rúmí parts of speech, prepositions can be used as prefixes to create words with more complex meaning.
 
 ## Markers (zbUI)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
