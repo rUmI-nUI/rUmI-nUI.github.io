@@ -6,7 +6,7 @@ Rúmí has 5 parts of speech: nouns (écúí), verbs (vúí), statives (cúí), 
 ## Nouns (EcUI)
 
 Much like in toki pona, rUmI nouns describe concepts and things. Plurals are indicated by prefixing a noun with n(ö)-, with the "ö" used to increase the ease of pronunciation before a consonant at the writer's discretion.
-rUmI nouns can decline into 5 cases:
+rUmI nouns can decline into 6 cases:
 
 * Nominative case
   * This is the default form of the noun and has no special ending. The last element of a noun in this case denotes its type ("A" for times, "E" for matter, "u" for humans, "Ö" for condition, etc)
@@ -55,6 +55,19 @@ rUmI nouns can decline into 5 cases:
      * Fu *iwéöd* tév ods (I make food using fire)
      * U *i-édöd* e-páv ad ioson (He went through the vegetation using a 'light-tool' (flashlight))
      * Fu íb fum bru *bôöd* tosfe-táv nyiods ag yg-béna (Me and my friend will handpick mushrooms in the countryside).
+
+* Dative case: -öt
+   * The dative case is used to indicate that a noun is a *recipient* or *destination*.
+   * This case is analogous to "tawa <noun>" in toki pona and "toward/to" in English.
+   * Like the instrumental case, the "ö" is **not** optional.
+   * Nouns in the dative case can function as modifiers with prepositional quality or as just nouns, depending on the context.
+   * Examples
+     * Fu sev iú-ênas-én *buöt* (I send the document collection to you)
+       * Note: *buöt* can be placed anywhere in the sentence: "Buöt fu sev iú-ênas-én" is perfectly valid
+     * Tá *yjóm-bénaöt* fu e-táv (I will be going to a different land in the future)
+     * Fu *rúm-osöt* nem e-fáv (I am running toward my pet). 
+
+
     
  ## Verbs (vUI)
 
