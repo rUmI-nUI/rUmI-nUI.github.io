@@ -1,4 +1,4 @@
-# 2-öm iú-ênas: Úím Nö-zé
+# 2-öm iú-ênas: Úím Nö-zé Íb ÚÍ-dÚ
 # Chapter 2: Parts of Speech
 
 Rúmí has 5 parts of speech: nouns (écúí), verbs (vúí), statives (cúí), prepositions (acúí) and markers (zbúí). 
@@ -155,6 +155,7 @@ rUmI prepositions contain "a" or "A" in their non-negative forms.
 |yd|"against"|-|
 |fA|"now"|Marks the present|
 |pA|"Before, past"|Marks the past|
+|ypA|"After"|-|
 |tA|"Future"|Marks the future|
 
 
@@ -178,6 +179,9 @@ The organization of prepositional phrases (i.e. "preposition-final") may seem co
 As with all other Rúmí parts of speech, prepositions can be used as prefixes to create words with more complex meaning.
 
 ## Markers (zbUI)
+
+Markers are "particles" that indicate/join clauses and help to refine the flow of logic. They can be categorized into the following:
+
 
 
 
