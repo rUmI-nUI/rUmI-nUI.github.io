@@ -109,7 +109,7 @@
 |107|uta|_tosg_|toward-life-thing-inside| Mouth: <ul><li>tosgas</li></ul>|
 |108|weka|_ycfa_|not-exist-this-space| Absent/Away: <ul><li>ycfam</li><li>ycfa: Elsewhere</li></ul> To remove: <ul><li>tycfav</li></ul>|
 |109|namako|_kfÖ_|above-this-condition| Extra: <ul><li>kfÖm</li></ul>|
-|110|kin|_fÖb_|this-condition-together| Also: <ul><li>fÖb</li></ul>|
+|110|kin|_Ib_|sound-together| Also/Too/And: <ul><li>Íb</li></ul>|
 |111|kipisi|_zE_|part-matter| Part: <ul><li>zE</li></ul> Divide: <ul><li>(t)zEv</li></ul>|
 |112|leko|_jênas_|equal-two-quantity-space-thing| Square: <ul><li>jênas</li></ul>|
 |113|meso|_jnU_|equal-quantity-spirit| Average: <ul><li>jnU(m)</li></ul>|
