@@ -116,7 +116,7 @@ There are four base statives - Ec, Uc, Öc and yc. "Ec", "Uc" and "Öc" can be t
 |Base Stative|Closer Translation|Use|Example(s)|Notes|
 |-------|-------|---|-------------|-|
 |Ec|"physically exists"|To indicate that something exists, is at some place or is generally of some quality|Wé éc (A rock exists),<br> Wé ab béna éc (The rock is on the ground),<br> Wé wém éc (The rock is tough)|This is the most common stative and can be used in place of Uc as well. Is also used to say "yes"|
-|Uc|"conceptually exists"|To indicate that something exists as a concept or ideal, is true or correct|Nu úg, iods rú úc (To humans, food is good), <br> Fé úc (This is true)|-|
+|Uc|"conceptually exists"|To indicate that something exists as a concept or ideal, is true or correct|Nuöt, iods rú úc (To humans, food is good), <br> Fé úc (This is true)|-|
 |Öc|"conditionally exists"|To indicate that something might exist|Ad ké evöm döcúb nö-jéos öc (Fish with the ability of movement through air may exist)|-|
 |yc|"Not exist"|To indicate that something isn't|Jéos u yc (A fish isn't a human), <br> Fú íb bú ag búö yc (You and I aren't in agreement)|Is also used to say "no"|
 
