@@ -57,7 +57,7 @@ rUmI nouns can decline into 6 cases:
      * Fu íb fum bru *bôöd* tosfe-táv nyiods ag yg-béna (Me and my friend will handpick mushrooms in the countryside).
 
 * Dative case: -öt
-   * The dative case is used to indicate that a noun is a *recipient* or *destination*.
+   * The dative case is used to indicate that a noun is a *target*, *recipient* or *destination*.
    * This case is analogous to "tawa <noun>" in toki pona and "toward/to" in English.
    * Like the instrumental case, the "ö" is **not** optional.
    * Nouns in the dative case can function as modifiers with prepositional quality or as just nouns, depending on the context.
