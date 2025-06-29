@@ -182,8 +182,18 @@ As with all other Rúmí parts of speech, prepositions can be used as prefixes t
 
 Markers are "particles" that indicate/join clauses and help to refine the flow of logic. They can be categorized into the following:
 
+<ins> Joining Markers: Ib, gaf, yfÖ </ins>
 
+Joining markers do not designate new clauses themselves, but can 1.) join two things or 2.) qualify an existing independent clause.
 
+Ib
+* Analogous to "and" in English. Unlike in toki pona, "Ib" can be used wherever "and" can be used: joining subjects, verbs and clauses.
+  * Ex. 1: Fu íb bu nö-bru éc (You and I are friends)
+  * Ex. 2: Fu rúté-páv ga íb bu é-páv fnum ods (I cleaned the room and you made our food)
+  * Ex. 3: Fu odé-fáv íb rí-fáv (I am eating and laughing)
+* When used at the beginning or end of a clause, "Ib" means the same as "too/also" in English or "kin" in toki pona
+  * Ex. 4: Fu jióv-u éc íb (I am a writer, too)
+  * Ex. 5: Íb, u bum ytu éc (Also, she is your mother)
 
 
 
