@@ -1,4 +1,4 @@
-# 2-öm iú-ênas: Úím Nö-zé Íb ÚÍ-dÚ
+# 2-öm iú-ênas: Úím Nö-zé Íb Úí-dú
 # Chapter 2: Parts of Speech and Grammar
 
 Rúmí has 5 parts of speech: nouns (écúí), verbs (vúí), statives (cúí), prepositions (acúí) and markers (zbúí). 
