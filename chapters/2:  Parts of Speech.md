@@ -34,7 +34,7 @@ rUmI nouns can decline into 6 cases:
   * Examples
     * Iú-ênas *bum* éc (The document is yours)
     * Fu ba-táv *ynânazim* e-ga (I will have a blue car)
-    * *Wúm* ânawéf *nem* yrcé-páv nwé ét *ywúm* ywé (The strong rod quickly breaks stones into weak dust)
+    * *Ywúm* ywéöt, *wúm* ânawéf *nem* yrcé-páv nwé  (The strong rod quickly breaks stones into weak dust)
 
 * Sociative case: -(ö)b
    * The sociative case is used to indicate that a noun is *with/beside* something else, physically.
