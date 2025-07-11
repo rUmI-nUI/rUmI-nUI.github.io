@@ -195,7 +195,27 @@ Ib
   * Ex. 4: Fu jióv-u éc íb (I am a writer, too)
   * Ex. 5: Íb, u bum ytu éc (Also, she is your mother)
 
+gaf:
 
+* Analogous to "anu" in toki pona and "or" in English, gaf is used to join two or more alternatives.
+	* Ex. 1: Fu öcúv jióv ios gaf os ab fém ênas (I can draw a plant or an animal on this sheet)
+	* Ex. 2: Tá bum évs rúm gaf yrúm ö öc (Your creation may either be in a good or bad state in the future)
+	* Ex. 3: Fu buöt se-táv fé gaf yfé (I will give you either this or that)
+
+* On its own, "gaf" is akin to "alternatively" and is used with the conditional aspect
+	* Ex. 1: Gaf, bu úí-öv yfé (Alternatively, you may say that)
+	* Ex. 2: Fnu e-öv at ná-ioson, gaf (We may also go to the forest as well)
+
+yfÖ 
+
+* When joining two things (clauses, modifiers, nouns), "yfö" functions like "but (rather)" in English. 
+	* Ex. 1: Fu y-jió-páv ios yfö os (I didn't draw a plant, but rather an animal)
+	* Ex. 2: Fnu Sámoá-béna yc yfö Amérikam-Sámoá-béna (We aren't in Samoa, but rather American Samoa).
+	* Ex. 3: Fé can-yg-jé-béna yc yfö zyg-jé-béna (This isn't an island but rather a peninsula).
+
+* On its own, "yfÖ" means "but/however" like "taso" in toki pona
+	* Ex. 1: Yfö, bu y-e-páv (However, you didn't go)
+	* Ex. 2: Fu y-rúbóv nö-gróm nods, yfö (I don't like foods that are too sweet, however)
 
 
 
