@@ -217,6 +217,7 @@ yfÖ
 	* Ex. 1: Yfö, bu y-e-páv (However, you didn't go)
 	* Ex. 2: Fu y-rúbóv nö-gróm nods, yfö (I don't like foods that are too sweet, however)
 
+<ins> Subordinate Clause Marker: Ut </ins>
 
 
 
