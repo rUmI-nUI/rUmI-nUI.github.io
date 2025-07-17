@@ -219,11 +219,18 @@ yfÖ
 
 <ins> Subordinate Clause Marker: Ut </ins>
 
+A subordinate clause is a grouping of words that functions as a part of a sentence. In English, these are usually separated by a conjunction like "that" or "to". In the sentence "I thought that you were reading this", "you were reading this" is the subordinate clause that functions as the object of "thought". In Rúmí, subordinate clauses end with the marker "Ut" and are located at the front of the sentence. 
 
+* "Ut" can be used as the equivalent of "that/to" in English or "e ni:" in toki pona:
+  * Ex. 1: Bu ió-tiú-fáv fé út, fu ag-iú-páv (I thought that you were reading this)
+  * Ex. 2: Odév fé út, fu tsóv (I want to eat this)
+    * Note that this sentence can (and should, for the sake of simplicity) be rephrased as "Fu tsó-odév fé".
+   
+* "Ut" can also function as a quotative marker to indicate other speech:
+  * Ex. 1: U e-táv yt fnu út, u fá úív (She now says that she will go away from us)
+  * Ex. 2: Fé nycxúm é-páv út, fu y-iú-páv (I did not know this worked so strangely)
 
-
-
-
+<ins> Reasoning Clause Marker: Ugyt </ins>
 
 
 
