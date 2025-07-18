@@ -39,7 +39,7 @@
 |37|kiwen|_wE_|strong-matter| Stone, hard material, tough: <ul><li>wE(m)</li></ul> Metal: <ul><li>ew-wE</li></ul>|
 |38|ko|_ywE_|not-strong-matter| Powder, dust: <ul><li>yb-ywE</li></ul> Semi-solid: <ul><li>ywE</li></ul>|
 |39|ante|_yj_|not-equal| Different: <ul><li>yjUm</li></ul> Difference: <ul><li>yjU</li></ul> To change/alter: <ul><li>(t)yjUv</li></ul>|
-|40|awen|_ctAv_|exist-toward-time-action| To stay/wait/remain/continue doing: <ul><li>ctAv</li></ul> To endure: <ul><li>dA-ctAv</li></ul> To protect: <ul><li>trÖ-ctAv</li></ul>|
+|40|awen|_ctA(v)_|exist-toward-time-(action)| To stay/wait/remain/continue doing: <ul><li>ctAv</li></ul> To endure: <ul><li>dA-ctAv</li></ul> To protect: <ul><li>trÖ-ctAv</li></ul>|
 |41|kalama|_I_|sound| Sound: <ul><li>I</li></ul> Noise, clamor: <ul><li>yrI</li></ul> To make sound: <ul><li>(t)Iv</li></ul>|
 |42|kulupu|_un_|human-many| Group, collective: <ul><li>un</li></ul> Society: <ul><li>bun</li></ul>|
 |43|lape|_yOc_|not-feeling-exist| To sleep, rest: <ul><li>yOcÖ: Sleep/rest</li><li>yOcÖv</li></ul>|
