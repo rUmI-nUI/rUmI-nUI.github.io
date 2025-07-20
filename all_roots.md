@@ -80,7 +80,7 @@
 |78|lete|_ybiw_|not-with-light-force| Cold/Raw: <ul><li>ybiwÖ</li></ul>|
 |79|musi|_vrO_|make-good-feeling| Entertaining/Fun: <ul><li>vrOm</li></ul> Entertainment/Game: <ul><li>vrOms</li></ul> Artistic: <ul><li>vrO-jiOm</li></ul>|
 |80|kama|_tev_ or _tA_ (future)|toward-movement-action or toward-time| Come/begin: <ul><li>tev</li></ul> Future: <ul><li>tA(m)</li></ul>|
-|81|ken|_Öc_|condition-exist| Can/May: <ul><li>ÖcUv: To be able to</li></ul> Ability: <ul><li>dÖcU</li></ul> Possibility: <ul><li>ânÖcU</li></ul>|
+|81|ken|_Öc(U)_|condition-exist-(spirit)| Can/May: <ul><li>ÖcUv: To be able to</li></ul> Ability: <ul><li>dÖcU</li></ul> Possibility: <ul><li>ânÖcU</li></ul>|
 |82|open|_ve_|make-movement| Start: <ul><li>vev: To start</li><li>ve-: To start doing something</li><li>veA: Start</li></ul> Open: <ul><li>(t)vegav: To open</li></ul>|
 |83|pini|_yp_|not-before| End: <ul><li>ypA</li></ul> To finish: <ul><li>(t)ypAv</li></ul>|
 |84|sona|_iU_|light-spirit| Knowledge: <ul><li>iU</li></ul> To know: <ul><li>iUv</li></ul>|
