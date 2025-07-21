@@ -232,6 +232,13 @@ A subordinate clause is a grouping of words that functions as a part of a senten
 
 <ins> Reasoning Clause Marker: Ugyt </ins>
 
+A reasoning clause is used to explain a reason, with "úgyt" functioning like "because" in English. The preferred location of reasoning clauses are at the front of sentences, though their location is flexible unlike subordinate clauses. 
+
+* Ex. 1: Yga iwúm éc úgyt, pá fu ag ga éc (Because it was warm outside, I was inside).
+* Ex. 2: Ytúí bav nö-zé úgyt, fnu tsóv yjóm úí (Since aUI is complex, we need a different language).
+  * Notes: "ytUI" is the preferred way of referring to aUI in Rúmí. The Rúmí translation of "complex" is to "have many parts" (bav nö-zé).
+* Ex. 3: Fu rúbóv bu, bum rúm ú úgyt (I love you because of your beautiful spirit).
+
 
 
 
