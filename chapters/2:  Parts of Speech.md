@@ -246,12 +246,20 @@ A relational clause is used to indicate a quality relative to something else (i.
 * Ex. 1: Bu úx, fu nám éc (Relative to you, I am older).
   * Can also be rephrased as "Fu nám éc úx bu" (I am older than you).
 * Ex. 2: Ag fnum n-ag-iú úx, um jiós nö-rúm éc (His drawing was more beautiful than what was in our thoughts)
-* Ex. 3: Fnu úx, u niúc (Relative to us, he is the smartest)
+* Ex. 3: Fnu úx, u niúc (Relative to us, she is the smartest)
   * Note the combination of "Ux" and a synthetic stative to indicate an absolute comparison.
 
+<ins> Contextual Clause Marker: Ög </ins>
 
+The contextual clause marker "Ög" marks a context in which the following clause takes place and functions exactly like toki pona's "la". In this use, it can also signify "when" and "amidst".  
+Note: "Ög" should only be used if another marker cannot convey a more specific meaning to describe a context.
 
-
+* Ex. 1: Bu ev ak kyjwé ög, bu tsótáv iwúm nygênas (In the context of you hiking up the mountain, you will want warm clothes)
+  * A less clunky translation would be "When you hike up the mountain, you will want warm clothes.
+  * Note how the sentence's meaning changes if it is written as "Bu ev ak kyjwé úgyt, bu tsótáv iwúm nygênas" -> (Because you're hiking up the mountain, you will want warm clothes). Unlike in toki pona, "ög" is much more restricted in the meaning that it can convey. 
+* Ex. 2: Fnum bénam nö-jé ög, bu jió-páv iú-ênas (You wrote a report on the waters of our land)
+* Ex. 3: Nésöm ú ög (About the spirit of things).
+  * Clauses can stand by themselves and do not necessarily need a verb/stative. This example is a translation of the book title "De rerum natura" (On the nature of things). 
 
 
 
