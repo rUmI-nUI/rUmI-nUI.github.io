@@ -133,7 +133,7 @@ Synthetic statives are used to describe permanent, enduring or absolute qualitie
   * There are a few cases where a synthetic stative is preferred over a modifier, the most common being to tell is something is broken (yrc). Ex. "Éd yrc" (The tool is broken). Note that "Éd yrcöm éc" would be used if the tool was temporarily broken.
   * Another case is the "is forever _____ " construct. Ex. "Ak ké u wúc" (The person above the sky is forever strong) or "Iúm ná-ios nac" (The tree of knowledge is forever tall)
 * Case 2: Absolute comparisons.
-  * This is the most common use for a synthetic stative and is always used in comparative clauses. Ex. Fum brú úx, fu nac (Relative to my friend, I am the tallest), "Canöm nu úx, fum ytu ic" (Relative to everyone, my father is the brightest).
+  * This is the most common use for a synthetic stative and is always used in relational clauses. Ex. Fum brú úx, fu nac (Relative to my friend, I am the tallest), "Canöm nu úx, fum ytu ic" (Relative to everyone, my father is the brightest).
 
 ## Prepositions (acUI)
 
@@ -239,6 +239,15 @@ A reasoning clause is used to explain a reason, with "úgyt" functioning like "b
   * Notes: "ytUI" is the preferred way of referring to aUI in Rúmí. The Rúmí translation of "complex" is to "have many parts" (bav nö-zé).
 * Ex. 3: Fu rúbóv bu, bum rúm ú úgyt (I love you because of your beautiful spirit).
 
+<ins> Relational Clause Marker: Ux </ins>
+
+A relational clause is used to indicate a quality relative to something else (i.e. a relation). In English, this is typically done using "than", "relative to" or "versus". "Ux" can be used to designate a clause that serves as a comparison for another clause. Similar to "Ib", "gaf" and "yfÖ", "Ux" can also be used to link two words or clauses at any position within a sentence.
+
+* Ex. 1: Bu úx, fu nám éc (Relative to you, I am older).
+  * Can also be rephrased as "Fu nám éc úx bu" (I am older than you).
+* Ex. 2: Ag fnum n-ag-iú úx, um jiós nö-rúm éc (His drawing was more beautiful than what was in our thoughts)
+* Ex. 3: Fnu úx, u niúc (Relative to us, he is the smartest)
+  * Note the combination of "Ux" and a synthetic stative to indicate an absolute comparison.
 
 
 
