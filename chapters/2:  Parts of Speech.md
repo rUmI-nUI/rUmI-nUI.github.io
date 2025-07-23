@@ -180,7 +180,7 @@ As with all other Rúmí parts of speech, prepositions can be used as prefixes t
 
 ## Markers (zbUI)
 
-Markers are "particles" that indicate/join clauses and help to refine the flow of logic. They can be categorized into the following:
+Markers are "particles" that indicate/join clauses and help to refine the flow of logic. Unlike nouns and verbs, markers do not decline or conjugate. They can be categorized into the following:
 
 <ins> Joining Markers: Ib, gaf, yfÖ </ins>
 
@@ -260,6 +260,37 @@ Note: "Ög" should only be used if another marker cannot convey a more specific 
 * Ex. 2: Fnum bénam nö-jé ög, bu jió-páv iú-ênas (You wrote a report on the waters of our land)
 * Ex. 3: Nésöm ú ög (About the spirit of things).
   * Clauses can stand by themselves and do not necessarily need a verb/stative. This example is a translation of the book title "De rerum natura" (On the nature of things). 
+
+<ins> Question Markers: "H_" </ins>
+
+Like in English, question markers (or interrogatives) are used to create questions. Like in toki pona, question markers can function similar to "seme" and can be located at any location within a sentence. Questions markers cannot be used as relative pronouns and can only be used for questions. For that matter, Rúmí doesn't have relative pronouns (unlike aUI) and uses subordinate markers instead ("U jió-páv fé út, fu y-iúv" -> I don't know who wrote this). Like in English, question markers can be divided into the questions they represent:
+
+* hE: What
+  * Ex. 1: Hé fé? (What is this?)
+    * Note that a stative is not necessary for the question, though it is perfectly alright to write the same question as "Hé fé éc?"
+  * Ex. 2: Hé os öcúv ev ad ké? (What animal can move through air?)
+  * Ex. 3: Ku év hé? (The lord made what? -> "What hath God wrought?")
+
+* hEu: Who
+  * Ex. 1: Héu túv úív fuöt? (Who tries to call me?)
+  * Ex. 2: Osöf ev at héu? (The pet is running toward who?)
+
+* ha: Where
+  * Ex. 1: Ha yrcé-páv bum bôs? (Where did you break your hand?)
+  * Ex. 2: Yt ha bu fa-ev? (From where do you come?)
+
+* hA: When
+  * Ex. 1: Há bum kéosöf ypáv yr-úív? (When will your bird stop making noise?)
+    * The literal translation of "yr-úív" is "bad talking"
+  * Ex. 2: Há bum iú-sev-u téc? (When will you become a teacher?)
+
+* hU: How
+  * Ex. 1: Hú éd ev? (How does the tool move?)
+  * Ex. 2: Hú bu óv fá? (How do you feel now?)
+
+* hUt: Why
+  * Ex. 1: Hút fnu y-öcuv ev ad ké? (Why can't we move through air?)
+  * Ex. 2: Hút fé bav nö-zé? (Why does this have so many parts?)
 
 
 
