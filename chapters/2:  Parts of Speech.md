@@ -251,7 +251,7 @@ A relational clause is used to indicate a quality relative to something else (i.
 
 <ins> Contextual Clause Marker: Ög </ins>
 
-The contextual clause marker "Ög" marks a context in which the following clause takes place and functions exactly like toki pona's "la". In this use, it can also signify "when" and "amidst".  
+The contextual clause marker "Ög" marks a context in which the following clause takes place and functions exactly like toki pona's "la". In this use, it can also signify "if/when" and "amidst".  
 Note: "Ög" should only be used if another marker cannot convey a more specific meaning to describe a context.
 
 * Ex. 1: Bu ev ak kyjwé ög, bu tsótáv iwúm nygênas (In the context of you hiking up the mountain, you will want warm clothes)
