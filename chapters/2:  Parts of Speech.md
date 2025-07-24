@@ -254,7 +254,7 @@ A relational clause is used to indicate a quality relative to something else (i.
 The contextual clause marker "Ög" marks a context in which the following clause takes place and functions exactly like toki pona's "la". In this use, it can also signify "if/when" and "amidst".  
 Note: "Ög" should only be used if another marker cannot convey a more specific meaning to describe a context.
 
-* Ex. 1: Bu ev ak kyjwé ög, bu tsótáv iwúm nygênas (In the context of you hiking up the mountain, you will want warm clothes)
+* Ex. 1: Bu ev ak kyjwé ög, bu tsó-táv iwúm nygênas (In the context of you hiking up the mountain, you will want warm clothes)
   * A less clunky translation would be "When you hike up the mountain, you will want warm clothes.
   * Note how the sentence's meaning changes if it is written as "Bu ev ak kyjwé úgyt, bu tsótáv iwúm nygênas" -> (Because you're hiking up the mountain, you will want warm clothes). Unlike in toki pona, "ög" is much more restricted in the meaning that it can convey. 
 * Ex. 2: Fnum bénam nö-jé ög, bu jió-páv iú-ênas (You wrote a report on the waters of our land)
