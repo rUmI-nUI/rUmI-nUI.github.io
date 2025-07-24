@@ -1,3 +1,3 @@
-# 2-öm iú-ênas: Nö-nö
-# Chapter 2: Numbers
+# 3-öm iú-ênas: Nö-nö
+# Chapter 3: Numbers
 
