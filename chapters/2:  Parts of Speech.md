@@ -282,7 +282,7 @@ Like in English, question markers (or interrogatives) are used to create questio
 * hA: When
   * Ex. 1: Há bum kéosöf ypáv yr-úív? (When will your bird stop making noise?)
     * The literal translation of "yr-úív" is "bad talking"
-  * Ex. 2: Há bum iú-sev-u téc? (When will you become a teacher?)
+  * Ex. 2: Há bu iú-sev-u téc? (When will you become a teacher?)
 
 * hU: How
   * Ex. 1: Hú éd ev? (How does the tool move?)
