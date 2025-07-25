@@ -67,9 +67,12 @@ This is the same as one of the division forms (as is logical) and translates to 
 * Ex. 2: 5/ 875 -> Ô ak, íbînênk íb íbênânkô yk.
  
 
-<ins> Notation #2: X/Y -> X-öm Y-z </ins>
-This notation can only be used if Y is a single-word number - that is, 1-99 or an integer multiple of a power of 10. On its own, the construction "Y-z" is equivalent to "<number>-th" in English.
+<ins> Notation #2: X/Y -> X-öm Y-(ö)z </ins>
+This notation can only be used if Y is a single-word number - that is, 1-99 or an integer multiple of a power of 10. On its own, the construction "Y-(ö)z" is equivalent to "<number>-th" in English.
 * Ex. 1: 1/5 -> Â-öm ôz *gaf* ôz
 * Ex. 2: Half -> Êz
 * Ex. 3: 7/95 -> Íbê-öm íbûnânkôz
 * Ex. 4: A fifty forth -> Ônânkûz
+* Ex. 5: 1/0 -> Ânköz
+
+
