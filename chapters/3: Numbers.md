@@ -47,11 +47,13 @@ In each case, X and Y represent numbers. A comma is used to separate two sides o
 * Ex. 2: 120 - 13 is 107 -> Ênk íb ênânk yb ânkî, ênk íb íbê éc.
 
 <ins> Multiplication: X * Y -> X-öm Y </ins>
+
 NOTE: Multiplication between a number and a power of ten (scientific notation) is handled differently (see below). This section covers the multiplication of two numbers:
 * Ex. 1: 8 * 8 is 64 -> Íbî-öm íbî, íbânânkû éc.
 * Ex. 2: 3 * 24 is 72 -> Î-öm ênânkû, íbênânkê éc.
 
 <ins> Division: X / Y -> Y-öd X zé *or* X ak Y yk </ins>
+
 NOTE: The second notation is one of the 2 notations for fractions (see below)
 * Ex. 1: 4 / 2 is 2 -> Ê-öd û zé, ê éc *gaf* û ak ê yk, ê éc.
 
