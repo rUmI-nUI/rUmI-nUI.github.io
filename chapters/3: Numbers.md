@@ -73,6 +73,6 @@ This notation can only be used if Y is a single-word number - that is, 1-99 or a
 * Ex. 2: Half -> Êz
 * Ex. 3: 7/95 -> Íbê-öm íbûnânkôz
 * Ex. 4: A fifty forth -> Ônânkûz
-* Ex. 5: 1/0 -> Ânköz
+* Ex. 5: 1/10 -> Ânköz
 
 
