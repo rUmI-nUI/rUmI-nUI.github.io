@@ -75,4 +75,29 @@ This notation can only be used if Y is a single-word number - that is, 1-99 or a
 * Ex. 4: A fifty forth -> Ônânkûz
 * Ex. 5: 1/10 -> Ânköz
 
+## Decimals (Nânközö)
+
+Writing decimals in Rúmí is straightforward and follows the same formula: (integer part) íb (â)nkozöm (decimal part). Literally, the decimal notation is the sum of the integer part and a multiple of a negative power of 10.
+
+* Ex. 1: 1.2 -> Â íb ânközöm ê
+* Ex. 2: 1.02 -> Â íb ênközöm ê
+* Ex. 3: 1.002 -> Â íb înközöm ê
+* Ex. 4: 23.456 -> Ênânkî íb ânközöm ûnênk íb ônânkíbâ
+  * 0.456 is 0.1 * 456
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
