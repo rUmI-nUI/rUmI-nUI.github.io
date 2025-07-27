@@ -93,8 +93,8 @@ While scientific notation is conventionally the product of a number and a power 
 * Ex. 1: 1.23 x 10^11 -> Â íb ânközöm ênânkî ab ânkâm ânk-nök.
 * Ex. 2: 6.022 x 10^23 -> Íbâ íb ênközöm ênânkê ab ênânkîm ânk-nök.
   * Gaf, "Avogadró-um nö"
-* Ex. 3: 6.67 x 10^-11 -> Íbâ íb ânközöm íbânânkíbê ab yg-ycöm ânkâm ânk-nök.
-  * Gaf, "Yge-wúm nö"
+* Ex. 3: 6.67 x 10^-11 -> Íbâ íb ânközöm íbânânkíbê ab yk-ycöm ânkâm ânk-nök.
+  * Gaf, "Yke-wúm nö"
 
 
 
