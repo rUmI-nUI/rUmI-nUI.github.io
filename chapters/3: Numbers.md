@@ -6,6 +6,7 @@ Rúmí uses a system of numbers different from those of aUI and toki pona, thoug
 
 |Number|In Rúmí|Notes|
 |-------|-------|-|
+|0|ycö|Negative numbers are "yk-ycöm" (under 0) followed by the number| 
 |1|â|-|
 |2|ê|-|
 |3|î|-|
@@ -29,7 +30,7 @@ Rúmí uses a system of numbers different from those of aUI and toki pona, thoug
 |21-99|ênânkâ - íbûnânkíbû| All integers from 1-99 are treated as independent roots (no hyphens) and follow the same pattern <br> Examples: 42 = ûnânkê, 57: ônânkíbê|
 |100|ênk|The first 9 powers of 10 follow the pattern of "number"+"nk" <br> Examples: 1000 = înk, 1,000,000 = íbânk <br> All multiples of powers of 10 are independent roots that follow pattern of "number" + "n" + "power of 10" <br> Examples: 200 = ênênk, 800 = íbînênk|
 |101-999|ênk íb â - íbûnênk íb íbûnânkíbû|All numbers > 100 are multi-word phrases that follow the pattern of "power of 10" íb "sub-100 number" <br> Examples: 404 = ûnênk íb û, 756 = íbênênk íb ônânkíbâ|
-|1000-10^9|See notes|All integers keep following the above convention, with higher powers of 10 appended to the front of the phrase, followed by íb <br> Examples: 1111 = înk íb ênk íb ânkâ, 945234 = íbûnônk íb ûnûnk íb ônînk íb ênênk íb ínânkû|
+|1000-10^9|See notes|All integers keep following the above convention, with higher powers of 10 appended to the front of the phrase, followed by íb <br> Examples: 1111 = înk íb ênk íb ânkâ, 945234 = íbûnônk íb ûnûnk íb ônînk íb ênênk íb înânkû|
 |10^9+|See notes|All integers greater than 10^9 are required to be written in scientific notation (see below)|
 
 Before describing fractions, decimals and scientific notation, some basic arithmetic operations in Rúmí are presented:
@@ -85,6 +86,15 @@ Writing decimals in Rúmí is straightforward and follows the same formula: (int
 * Ex. 4: 23.456 -> Ênânkî íb ânközöm ûnênk íb ônânkíbâ
   * 0.456 is 0.1 * 456
 
+## Scientific Notation (Nö-zém Nönö Jió-dú)
+
+While scientific notation is conventionally the product of a number and a power of ten, Rúmí has a slightly different notation: (number) ab (power)(ö)m ânk-nök. "Nök" is the Rúmí translation of "exponent" and "ânk-nök" translates to "power of 10". 
+
+* Ex. 1: 1.23 x 10^11 -> Â íb ânközöm ênânkî ab ânkâm ânk-nök.
+* Ex. 2: 6.022 x 10^23 -> Íbâ íb ênközöm ênânkê ab ênânkîm ânk-nök.
+  * Gaf, "Avogadró-um nö"
+* Ex. 3: 6.67 x 10^-11 -> Íbâ íb ânközöm íbânânkíbê ab yg-ycöm ânkâm ânk-nök.
+  * Gaf, "Yge-wúm nö"
 
 
 
