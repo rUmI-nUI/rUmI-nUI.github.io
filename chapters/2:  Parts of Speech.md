@@ -157,13 +157,13 @@ rUmI prepositions contain "a" or "A" in their non-negative forms.
 |pA|"Before, past"|Marks the past|
 |ypA|"After"|-|
 |tA|"Future"|Marks the future|
-
+|aL|"around"|To denote rotation and circularity, *not* approximation|
 
 Prepositions can be used in two ways:
 * Case 1: As traditional prepositions
   * Prepositions placed after a subject and before something (a noun, clause or modifier) indicate a subject's spatial or temporal relationship with the thing
   * Ex. 1: Fu *ab* yru-ga éc (I am at the hospital)
-  * Ex. 2: Bu *ap* u ág, u e-páv *yt* bu (When you were in front of her, she moved away from you)
+  * Ex. 2: Bu *ap* u ög, u e-páv *yt* bu (When you were in front of her, she moved away from you)
 
 * Case 2: To mark a prepositional clause
   * A clause is a phrase that acts as a modifier. Prepositional clauses are defined by placing the preposition *after* a word or group of words.
