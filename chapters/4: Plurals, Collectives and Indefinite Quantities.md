@@ -26,5 +26,37 @@ Collectives are nouns that denote a *set of interrelated elements*. Like in Engl
 * úí: word, úín: sentence/phrase
   * Contrast with "núí", words or lexicon. In a sentence, words are related to each other whereas a lexicon is a set of words.
  
+## Parts: Z(ö)- or -(ö)z (divisions)
+
+Components of a larger whole are "parts" and are denoted by the prefix form. In contrast, divisions of a whole that retain the whole's characteristics are identified using the suffix form.
+
+* a: space, za: compartment, az: partition (spatial)
+* á: time, zá: minute/second/hour/day, áz: interval
+* u: human, zu: body part, uz: anatomical section
+  * Note: In contrast to their umbrella term, all body parts end in "-s" as they are fundamentally "things"
+
+## Indefinitives: Ym(ö)-
+
+The indefinite prefix is used to denote an unspecified/uncertain quantity of something and is equivalent to "some/something" in English.
+
+* a: space, yma: some space
+* u: human, ymu: somebody
+* ânawé: stick, ym-ânawé: some stick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
