@@ -28,7 +28,7 @@ Collectives are nouns that denote a *set of interrelated elements*. Like in Engl
  
 ## Parts: Z(ö)- or -(ö)z (divisions)
 
-Components of a larger whole are "parts" and are denoted by the prefix form. In contrast, divisions of a whole that retain the whole's characteristics are identified using the suffix form. Independently, "zöm" can be used as a modifier in its own right (Ex: bôs zöm os éc -> The arm is a part of the body)
+Components of a larger whole are "parts" and are denoted by the prefix form. In contrast, divisions of a whole that retain the whole's characteristics are identified using the suffix form. Independently, "z()m" can be used as a modifier in its own right (Ex: bôs zöm os éc -> The arm is a part of the body)
 
 * a: space, za: compartment, az: partition (spatial)
 * á: time, zá: minute/second/hour/day, áz: interval
@@ -37,7 +37,7 @@ Components of a larger whole are "parts" and are denoted by the prefix form. In 
 
 ## Indefinitives: Ym(ö)-
 
-The indefinite prefix is used to denote an unspecified/uncertain quantity of something and is equivalent to "some/something" in English. Like above, "ymöm" can be used as a modifier to denote "some" of something (Ex: Se-vte fuöt ymöm jé -> Send me some water). 
+The indefinite prefix is used to denote an unspecified/uncertain quantity of something and is equivalent to "some/something" in English. Like above, "ym()m" can be used as a modifier to denote "some" of something (Ex: Se-vte fuöt ymöm jé -> Send me some water). 
 
 * a: space, yma: some space
 * u: human, ymu: somebody
