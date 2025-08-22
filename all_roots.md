@@ -95,7 +95,7 @@
 |93|mani|_tytsed_|toward-not-toward-thing-movement-means| Money: <ul><li>tytseds</li></ul>|
 |94|esun|_tytsev_|toward-not-toward-thing-movement-action| Market/Shop: <ul><li>tytseva</li></ul> Trade/Exchange: <ul><li>tytsev</li></ul>|
 |95|mun|_kiE_|above-light-matter| Celestial Body: <ul><li>kiE</li></ul> Moon: <ul><li>yiA-wE-kiE</li></ul>|
-|96|nanpa|_nU_|quantity-spirit| Number/Quantity: <ul><li>nU(m)</li></ul>|
+|96|nanpa|_nÖ_|quantity-state| Number/Quantity: <ul><li>nÖ(m)</li></ul>|
 |97|poki|_înaga_|three-quantity-space-inside-space| Box/Container: <ul><li>înagas</li></ul> Bowl: <ul><li>lînagas</li></ul>|
 |98|sin|_tcE_|toward-exists-matter| New: <ul><li>tcEm</li></ul>|
 |99|suno|_kwiE_ (sun), -i- (light)|above-strong-light-matter, light| Sun: <ul><li>kwiE</li></ul> Light: <ul><li>i</li></ul> Brightness: <ul><li>iÖ</li></ul>|
