@@ -1,3 +1,3 @@
-# rUmI-nUI
+# ☼ Rúmí
 
-(Items to be added soon)
+
