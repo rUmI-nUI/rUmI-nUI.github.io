@@ -13,7 +13,7 @@ Now that grammar is out of the way, here are some greetings and useful phrases i
 
 ## I am good -> Fu rúm éc
 
-## Long time no see! -> Ypá ná fu tcém iov bu! 
+## Long time no see! -> Ypá ná fu tcém ióv bu! 
 * Literal translation: After much time I again see you!
 
 ## What is your name? -> Hé bum úí?
