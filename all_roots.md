@@ -97,7 +97,7 @@
 |95|mun|_kiE_|above-light-matter| Celestial Body: <ul><li>kiE</li></ul> Moon: <ul><li>yiA-wE-kiE</li></ul>|
 |96|nanpa|_nU_|quantity-spirit| Number/Quantity: <ul><li>nU(m)</li></ul>|
 |97|poki|_înaga_|three-quantity-space-inside-space| Box/Container: <ul><li>înagas</li></ul> Bowl: <ul><li>lînagas</li></ul>|
-|98|sin|_tcEn_|toward-exists-matter| New: <ul><li>tcEm</li></ul>|
+|98|sin|_tcE_|toward-exists-matter| New: <ul><li>tcEm</li></ul>|
 |99|suno|_kwiE_ (sun), -i- (light)|above-strong-light-matter, light| Sun: <ul><li>kwiE</li></ul> Light: <ul><li>i</li></ul> Brightness: <ul><li>iÖ</li></ul>|
 |100|akesi|_ykeos_|not-above-moving-life-thing| Reptile, 'low' creature: <ul><li>ykeos</li></ul>|
 |101|alasa|_tosfev_ (hunt), -tUv- (to seek/try)|toward-life-thing-this-movement-action, toward-spirit-action| To hunt: <ul><li>tosfev</li></ul> To try to: <ul><li>tUv</li></ul>|
