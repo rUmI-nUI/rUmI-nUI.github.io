@@ -1,4 +1,4 @@
 title: Rúmí
 description:
-theme: minima
+remote_theme: "jekyll/minima@1e8a445"
 header_pages:
