@@ -1,4 +1,4 @@
-# 3-öm iú-ênas: Nö-nö
+# 3-öm iú-ênas: Nö-nú
 # Chapter 3: Numbers
 
 Rúmí uses a system of numbers different from those of aUI and toki pona, though the first five nonzero numbers (1,2,3,4,5) are the same as in aUI (â, ê, î, û, ô), with the circumflex representing a nasal sound. The following table explains the Rúmí number system in more detail, using nânakúí-jió only:
@@ -35,7 +35,7 @@ Rúmí uses a system of numbers different from those of aUI and toki pona, thoug
 
 Before describing fractions, decimals and scientific notation, some basic arithmetic operations in Rúmí are presented:
 
-## Basic Arithmetic (Nö-vú)
+## Basic Arithmetic (Nú-vú)
 
 In each case, X and Y represent numbers. A comma is used to separate two sides of a mathematical statement to ease readability.
 
@@ -58,7 +58,7 @@ NOTE: Multiplication between a number and a power of ten (scientific notation) i
 NOTE: The second notation is one of the 2 notations for fractions (see below)
 * Ex. 1: 4 / 2 is 2 -> Ê-öd û zé, ê éc *gaf* û ak ê yk, ê éc.
 
-## Fractions (Nöm zé)
+## Fractions (Núm zé)
 
 There are two ways of denoting fractions in Rúmí. Like above, commas can be used to separate the numerator from the denominator to ease readability:
 
@@ -86,7 +86,7 @@ Writing decimals in Rúmí is straightforward and follows the same formula: (int
 * Ex. 4: 23.456 -> Ênânkî íb ânközöm ûnênk íb ônânkíbâ
   * 0.456 is 0.1 * 456
 
-## Scientific Notation (Nö-zém Nönö Jió-dú)
+## Scientific Notation (Nö-zém Nönú Jió-dú)
 
 While scientific notation is conventionally the product of a number and a power of ten, Rúmí has a slightly different notation: (number) ab (power)(ö)m ânk-nök. "Nök" is the Rúmí translation of "exponent" and "ânk-nök" translates to "power of 10". 
 
