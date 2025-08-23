@@ -11,7 +11,7 @@ From this foundation, an entire universe can be constructed.
 
 ---
 
-Yt tóki-póná-úí íb ytúí téc yt, Rúmí tcém úí éc. Âv ê nú - ném yn-zé-ú íb ném úí-évöm nö-döcú - út, Rúmí téc. Rúmí év ab î nú: 
+Yt tóki-póná-úí íb ytúí téc yt, Rúmí tcém úí éc. Âv ê nú - ném yn-zé-ú íb ném úí-évöm döcú - út, Rúmí téc. Rúmí év ab î nú: 
 
 1. Núí y-tsóv vev yt úín. Úí-dúb íb ynem úízönöb, ymu öcúv év núí íb ymu öcúv ag-iúv fné. 
 2. Núí y-tsóv ku.
