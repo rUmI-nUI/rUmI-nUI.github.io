@@ -1,6 +1,6 @@
 # Úím Nö-dú | Grammar/Rules
 
-* ### [Ytúím Ní | Rúmí's basic elements of meaning, inherited from aUI](elements.md)
+* ### [Ytúím Ní | Rúmí's basic elements of meaning, inherited from aUI](/elements.md)
 * ### [Núíz | Word roots, inherited from toki pona](all_roots.md)
 * ### [Rúmí Núím Iú-e Dú | Rúmí's Semantic Structure](0_rUmI_Semantic_Structure.md)
 * ### [Rúmí-Núím Ê Nö-jió-dú | Rúmí's 2 Writing Systems](1_Writing_Systems.md)
