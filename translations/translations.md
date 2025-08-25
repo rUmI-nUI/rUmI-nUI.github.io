@@ -9,3 +9,4 @@
 ## Translations to Rúmí
 
 * ### [Article 1, Universal Declaration of Human Rights](UDHR.md)
+* ### [Man O To](man_o_to.md)
